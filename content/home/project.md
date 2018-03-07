@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Project"
+title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,18 +22,18 @@ order of increasing distance.
 
 
 [**Floral Market Stats Project**](https://github.com/xiaotaichai/floral_market_stats_project) (group project)    
-Analyzed sales data from Safeway Eastern's floral department to determine whether
+Analyzed sales data from a grocery store's floral department to determine whether
 there's a particular independent variable that drives or hurts flower sales. Analyzed
 variables include closing price of the S&P 500, oil price, weather, and chocolate selling.
-Visualized data and presented the project.
+Visualized data and communicated findings in a presentation.
 
 
 
 [**College Outcomes Project**](https://github.com/xiaotaichai/R_project/tree/master/College_Outcome_Project) (group project)   
 Cleaned and analyzed College Scorecard Data. Visualized data and built regression
 models to find relationships among interesting variables (e.g. gender of student,
-withdrawal rate, and federal loan). Compared New College students’ situation to
-other college students’ situation. Presented the project.
+withdrawal rate, and federal loan). Compared student outcomes of New College to
+other colleges. Communicated findings in a presentation.
 
 
 [**Early Bird Consulting**](https://earlybirdconsulting.weebly.com/operations.html)  (group project)  

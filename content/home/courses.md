@@ -38,7 +38,7 @@ The courses that I've taken in the Data Science Program:
 
 - CAP 5610 – Optimization and Machine Learning
 
-
+-----------------------------------------------------------------------------------
 Courses to take in the future: 
 
 ##### Year Two: Third Semester
@@ -49,6 +49,6 @@ Courses to take in the future:
 
 - CAP 5303 – Topics in Statistical Inference for Data Science
 
-##### Year Two: Fourth Semester
+##### Year Two: Fourth Semester  
 
 - CAP 5940 – Practicum: a full semester placed and working in industry as part of a data science team, while under the weekly supervision of and submitting reports to Data Science faculty.
