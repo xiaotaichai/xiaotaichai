@@ -35,3 +35,8 @@ models to find relationships among interesting variables (e.g. gender of student
 withdrawal rate, and federal loan). Compared New College students’ situation to
 other college students’ situation. Presented the project.
 
+
+[**Early Bird Consulting**](https://earlybirdconsulting.weebly.com/operations.html)  (group project)  
+Built the student consulting team and the business consulting website. Had hands-on consulting experience with Heartfelt Gifts. Took charge of operations and process management part of the project.
+
+
