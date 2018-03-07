@@ -30,4 +30,6 @@ weight = 5
 
 # Biography
 
-I'm a graduate student in the Data Science program in New College of Florida. I'm interested in data anlysis and model building.
+I'm a graduate student in the Data Science program in New College of Florida. I'm interested in data anlysis and model building, and dream to be a data scientist in the future.
+
+As a data science student who's strong at language such as R and Python and who has high query ability in SQL, I'm able to derive an analytical solution to abstract business issues and produce satisfying outcomes in a timely manner. As a candidate for Certificate in Investment Performance Measurement(CIPM), I have strong knowledge about the finance industry and stock market. As an operations management student who has many hands-on consulting experience, I greatly developed my communication skills to a diverse audience at different levels of the organization.
