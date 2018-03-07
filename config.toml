@@ -244,14 +244,14 @@ defaultContentLanguageInSubdir = false
   weight = 1
   
 [[menu.main]]
-  name = "Resume/CV"
-  url = "#resume:cv"
-  weight = 2
+  name = "Project"
+  url = "#project"
+  weight = 3
   
 [[menu.main]]
   name = "Courses"
   url = "#courses"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Contact"

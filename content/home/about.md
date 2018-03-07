@@ -18,12 +18,12 @@ weight = 5
 [[education.courses]]
   course = "Master's in Data Science"
   institution = "New College of Florida"
-  year = 2012
+  year = 2019
 
 [[education.courses]]
   course = "BS in Operations Management"
   institution = "Bay Path University"
-  year = 2009
+  year = 2017
 
  
 +++
