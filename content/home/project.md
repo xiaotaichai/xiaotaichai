@@ -37,6 +37,12 @@ other college students’ situation. Presented the project.
 
 
 [**Early Bird Consulting**](https://earlybirdconsulting.weebly.com/operations.html)  (group project)  
-Built the student consulting team and the business consulting website. Had hands-on consulting experience with Heartfelt Gifts. Took charge of operations and process management part of the project.
+Built the student consulting team and the business consulting website. Had hands-on consulting experience with Heartfelt Gifts. Took charge of operations and process management part of the project.  
+For Heartfelt Gifts:  
+- Built a database for products’ information.   
+- Redesigned chocolate gifts production process to reduce cost.   
+- Controlled vendor management process to increase efficiency.   
+- Developed feedback system and performance monitoring system.  
+
 
 
