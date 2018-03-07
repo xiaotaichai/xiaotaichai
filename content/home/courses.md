@@ -15,8 +15,6 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
 The courses that I've taken in the Data Science Program:
 
 Year One: First Semester
