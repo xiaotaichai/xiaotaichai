@@ -44,5 +44,4 @@ For Heartfelt Gifts:
 - Controlled vendor management process to increase efficiency.   
 - Developed feedback system and performance monitoring system.  
 
-
-
+![my-image](/img/gift.JPG)
