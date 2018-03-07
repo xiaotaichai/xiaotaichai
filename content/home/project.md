@@ -15,13 +15,13 @@ weight = 61
 
 +++
 
-**Yelp Feature Project**    
+[**Yelp Feature Project**](https://github.com/xiaotaichai/Yelp_feature_project)     
 Added a feature to the Yelp website listing the businesses of one type nearest to a given
 business of another type -- for example, the doctors nearest to a given restaurant -- in
 order of increasing distance.
 
 
-**Floral Market Stats Project** (group project)    
+[**Floral Market Stats Project**](https://github.com/xiaotaichai/floral_market_stats_project) (group project)    
 Analyzed sales data from Safeway Eastern's floral department to determine whether
 there's a particular independent variable that drives or hurts flower sales. Analyzed
 variables include closing price of the S&P 500, oil price, weather, and chocolate selling.
@@ -29,7 +29,7 @@ Visualized data and presented the project.
 
 
 
-**College Outcomes Project** (group project)   
+[**College Outcomes Project**](https://github.com/xiaotaichai/R_project/tree/master/College_Outcome_Project) (group project)   
 Cleaned and analyzed College Scorecard Data. Visualized data and built regression
 models to find relationships among interesting variables (e.g. gender of student,
 withdrawal rate, and federal loan). Compared New College students’ situation to
